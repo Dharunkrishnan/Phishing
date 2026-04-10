@@ -28,3 +28,5 @@ This project is developed to understand phishing detection using machine learnin
 
 ## 👤 Author
 **Dharun Krishna**
+## GitHub Profile
+https://github.com/Dharunkrishnan
