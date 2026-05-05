@@ -22,7 +22,6 @@ This project is a Machine Learning-based web application that detects whether a 
 ## ▶️ How to Run
 1. Clone the repository  
 2. Install dependencies:
-3. 
 ## 🎯 Purpose
 This project is developed to understand phishing detection using machine learning and to build a real-world web application.
 
